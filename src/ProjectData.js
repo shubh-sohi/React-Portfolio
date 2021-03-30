@@ -4,7 +4,7 @@ export const project_data = [
         description: "Designed and built a website using JavaScript, Php, Docker, MySQL, and HTML/CSS. Employment " +
             "platform with complete functionality which include login, signup, posting a job and picking a job. ",
         background: "url(/rock_job.png)",
-        github: "#"
+        github: "https://github.com/shubh-sohi/CMPT370_Project"
     },
     {
         title: "Complete Sudoku interface game",
@@ -34,7 +34,7 @@ export const project_data = [
         description: "A simple python desktop app the uses Matplitlib, Numpy, tkinter and yahoo finance API. Using the " +
             "user input of stock name and number of stimulation, prediction of the range of the stock is plotted",
         background: "url(/monte_carlo.png)",
-        github: "#"
+        github: "https://github.com/shubh-sohi/MonteCarlo_Stocks"
     },
     {
         title: "Android app to virtualize graphs",
