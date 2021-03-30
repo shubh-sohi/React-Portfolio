@@ -1,0 +1,26 @@
+.foot_style{
+    margin: 0;
+    text-align: center;
+    float: left;
+    width: 25%;
+    height: 50px;
+    /*background-color: #4285F4;*/
+}
+
+.icon-class{
+    padding: 10px;
+    padding-bottom: 0;
+    height: 30px;
+    width: 30px;
+}
+
+.icon-class:hover{
+    transition: all 0.5s;
+    transform: scale(1.3);
+}
+
+@media screen and (max-width: 481px){
+    .foot_style{
+        width: 100%;
+    }
+}
