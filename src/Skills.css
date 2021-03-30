@@ -1,0 +1,38 @@
+.title-skills {
+    font-size: 35px;
+    text-align: center;
+}
+
+.project-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.project{
+    border-radius: 2%;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+}
+.project h1{
+    background-color: rgba(47, 47, 47, 0.8);
+}
+.project h3{
+    font-weight: 200;
+    background-color: rgba(47, 47, 47, 0.8);
+}
+
+.project:hover{
+    transition: all .5s;
+    transform: scale(1.1);
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
